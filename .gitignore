@@ -8,3 +8,5 @@ docs/_site
 docs/.jekyll-metadata
 vendor
 /nbproject/private/
+config.bat
+node_modules
